@@ -7,13 +7,13 @@ Tortel is a Tor local proxy, Anonymous and free of Ads, you can use this program
 You only have to open the tortel.exe (for SOCKS5 proxy) or tortel-http.exe (for HTTP proxy), TorTel will download and launch Tor service automatically and serves you proxy address and port with your usage (SOCKS5 or HTTP)
 
 #### SOCKS5 local proxy
-```bash
+```text
   Open tortel.exe
   Wait for tor to reach 100% bootstrap and return the "Done!" status
   Your local SOCKS5 Proxy is ready to use!
 ```
 #### HTTP/HTTPS local proxy
-```bash
+```text
   Open tortel-http.exe
   Wait for tor to reach 100% bootstrap and return the "Done!" status
   Your local HTTP Proxy is ready to use!
