@@ -35,7 +35,7 @@ You only have to open the tortel.exe (for SOCKS5 proxy) or tortel-http.exe (for 
 
 
 
-#### Download TorTel latest version ↓
+#### TorTel latest version ↓
 ![GitHub Release](https://img.shields.io/github/v/release/imd0x/tortel)
 
 #### Downloads count ↓
