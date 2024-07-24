@@ -9,13 +9,11 @@ You only have to open the tortel.exe (for SOCKS5 proxy) or tortel-http.exe (for 
 #### SOCKS5 local proxy
 ```text
   Open tortel.exe
-  Wait for tor to reach 100% bootstrap and return the "Done!" status
   Your local SOCKS5 Proxy is ready to use!
 ```
 #### HTTP/HTTPS local proxy
 ```text
   Open tortel-http.exe
-  Wait for tor to reach 100% bootstrap and return the "Done!" status
   Your local HTTP Proxy is ready to use!
 ```
 ## Usage/Examples
